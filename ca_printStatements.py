@@ -1,0 +1,1 @@
+print("Most akkor python3-as verzioban is printeltetunk.")

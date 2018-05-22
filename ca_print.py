@@ -1,0 +1,1 @@
+print "Random szoveg csak mert azt kerte az instruckio."
